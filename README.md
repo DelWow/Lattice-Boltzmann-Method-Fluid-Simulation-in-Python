@@ -118,7 +118,7 @@ for y in range(Ny):
 
 The simulation visualizes the **vorticity** (curl) of the flow field, allowing you to observe complex flow patterns such as vortex shedding behind the cylinder.
 
-![Simulation Snapshot](https://via.placeholder.com/800x400?text=Simulation+Snapshot)
+<img width="635" alt="Screenshot 2024-11-14 at 7 46 03 PM" src="https://github.com/user-attachments/assets/24b26fda-370d-444f-985a-ead7e55c30eb">
 
 *An example snapshot of the flow field during the simulation.*
 
